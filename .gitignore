@@ -1,0 +1,11 @@
+# Ortak dosyalar
+node_modules/
+.env
+
+# Build dosyaları
+build/
+dist/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
